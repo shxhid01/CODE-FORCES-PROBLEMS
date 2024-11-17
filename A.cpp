@@ -27,6 +27,7 @@ int main() {
 
     return 0;
 }
+
 /*
 Code force contest
 Codeforces Round 988 (Div. 3)
